@@ -1,0 +1,271 @@
+# birthdaybot
+# Copyright (C) 2019 Noryx
+# Noryx <contact@pawz.xyz>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-01-16 22:43+CET\n"
+"PO-Revision-Date: 2019-01-16 23:00+CET\n"
+"Last-Translator: Noryx <contact@pawz.xyz>\n"
+"Language-Team: FRENCH <contact@pawz.xyz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: birthdaybot/commands.py:27
+msgid "Help"
+msgstr "Aide"
+
+#: birthdaybot/commands.py:31
+msgid "All commands list and usage guide"
+msgstr "Liste compléte des commandes et guide d'utilisation"
+
+#: ./birthdaybot/commands.py:20 ./birthdaybot/commands.py:36
+#: ./birthdaybot/commands.py:52 ./birthdaybot/commands.py:68
+#: ./birthdaybot/commands.py:186
+msgid "Given role doesn't exists on server."
+msgstr "Le rôle donné n'existe pas sur le serveur."
+
+#: ./birthdaybot/commands.py:25
+msgid "Members with role {0} are now allowed to use the bot."
+msgstr "Les membres avec le rôle {0} sont maintenant autorisés à utiliser le bot."
+
+#: ./birthdaybot/commands.py:41
+msgid "Members with role {0} are no longer allowed to use the bot."
+msgstr "Les membres avec le rôle {0} ne sont plus autorisés à utiliser le bot."
+
+#: ./birthdaybot/commands.py:57
+msgid "Members with role {0} are now allowed to manage the bot."
+msgstr "Les membres avec le rôle {0} ne sont maintenant autorisés à gérer le bot."
+
+#: ./birthdaybot/commands.py:73
+msgid "Members with role {0} are no longer allowed to manage the bot."
+msgstr "Les membres avec le rôle {0} ne sont plus autorisés à gérer le bot."
+
+#: ./birthdaybot/commands.py:84
+msgid "{0} isn't a valid timezone."
+msgstr "{0} n'est pas un fuseau horaire valide."
+
+#: ./birthdaybot/commands.py:88
+msgid "Server timezone is now {0}."
+msgstr "Le fuseau horaire du serveur est maintenant {0}."
+
+#: ./birthdaybot/commands.py:99
+msgid "{0} isn't a valid date format."
+msgstr "{0} n'est pas un format de date valide."
+
+#: ./birthdaybot/commands.py:103
+msgid "Server date format updated."
+msgstr "Le format de date du serveur a été mis à jour."
+
+#: ./birthdaybot/commands.py:113
+msgid "Bot language is now english."
+msgstr "La langue du bot est maintenant le français."
+
+#: ./birthdaybot/commands.py:115
+msgid "Language {0} isn't supported. ({1})"
+msgstr "La langue {0} n'est pas supportée. ({1})"
+
+#: ./birthdaybot/commands.py:126
+msgid "Hour must be between 0 and 23."
+msgstr "L'heure doit être entre 0 et 23."
+
+#: ./birthdaybot/commands.py:130
+msgid "Now we're going to celebrate birthdays at {0}."
+msgstr "Maintenant nous célébrons les anniversaires à {0}."
+
+#: ./birthdaybot/commands.py:142
+msgid "Celebration channel is now {0}."
+msgstr "{0} est maintenant le salon de célébration."
+
+#: ./birthdaybot/commands.py:155
+msgid "Birthday bot message updated."
+msgstr "Le message d'anniversaire du bot a été mis à jour."
+
+#: ./birthdaybot/commands.py:170
+msgid "Now keeping member birthday even if member leave server."
+msgstr "Les anniversaires des membres sont maintenant conservés même s'il ont quitté le serveur."
+
+#: ./birthdaybot/commands.py:172
+msgid "Now removing member birthday when he leave server."
+msgstr "Les anniversaires des membres sont maintenant suprimés lorsqu'il quitte le serveur."
+
+#: ./birthdaybot/commands.py:182 ./birthdaybot/commands.py:189
+msgid "Birthday role is set to {0}"
+msgstr "Le rôle anniversaire est maintenant {0}."
+
+#: ./birthdaybot/commands.py:202
+msgid "Channel {0} can now be used for birthday bot."
+msgstr "Le salon {0} peut maintenant être utilisé pour le bot."
+
+#: ./birthdaybot/commands.py:215
+msgid "Channel {0} now removed from birthday bot channel."
+msgstr "Le salon {0} n'est plus utilisable pour le bot."
+
+#: ./birthdaybot/commands.py:230
+msgid "Birthday isn't a valid date format: {0}."
+msgstr "La date d'anniversaire n'est pas un format de date valide : {0}."
+
+#: ./birthdaybot/commands.py:233
+msgid "Birthday isn't a valid date."
+msgstr "La date d'anniversaire n'est pas une date valide."
+
+#: ./birthdaybot/commands.py:239
+msgid "Your age must be between {0} and {1}."
+msgstr "Votre age doit être entre {0} et {1}."
+
+#: ./birthdaybot/commands.py:249 ./birthdaybot/commands.py:271
+#: ./birthdaybot/commands.py:294
+msgid "Given member is not a member of the server."
+msgstr "Le membre n'est pas un membre du serveur."
+
+#: ./birthdaybot/commands.py:254
+msgid "{0}'s birthday is now {1}."
+msgstr "L'anniversaire de {0} est maintenant le {1}."
+
+#: ./birthdaybot/commands.py:254 ./birthdaybot/commands.py:303
+msgid "MMMM Do"
+msgstr "D/MM"
+
+#: ./birthdaybot/commands.py:278 ./birthdaybot/commands.py:300
+msgid "{0} hasn't set is birthday yet."
+msgstr "{0} n'a pas encore précisé son anniversaire."
+
+#: ./birthdaybot/commands.py:283
+msgid "{0}'s birthday removed from server."
+msgstr "L'anniversaire de {0} est retiré des anniversaires du serveur."
+
+#: ./birthdaybot/commands.py:302
+msgid "{0}'s birthday is the {1} !"
+msgstr "L'anniversaire de {0} est le {1} !"
+
+#: ./birthdaybot/commands.py:321
+msgid "Connected to server since {0}."
+msgstr "Connecté au serveur depuis {0}."
+
+#: ./birthdaybot/commands.py:326
+msgid "Authorized role(s)"
+msgstr "Rôle(s) autorisé(s)"
+
+#: ./birthdaybot/commands.py:329
+msgid "Administrator role(s)"
+msgstr "Rôle(s) administrateur(s)"
+
+#: ./birthdaybot/commands.py:331
+msgid "Timezone"
+msgstr "Fuseau horaire"
+
+#: ./birthdaybot/commands.py:332
+msgid "Date format"
+msgstr "Format de date"
+
+#: ./birthdaybot/commands.py:333
+msgid "Language"
+msgstr "Langage"
+
+#: ./birthdaybot/commands.py:334
+msgid "Celebrating hour"
+msgstr "Heure de célébration"
+
+#: ./birthdaybot/commands.py:337 ./birthdaybot/commands.py:339
+msgid "Celebration channel"
+msgstr "Salon de célébration"
+
+#: ./birthdaybot/commands.py:342
+msgid "Command channel(s)"
+msgstr "Salons des commandes"
+
+#: ./birthdaybot/commands.py:346 ./birthdaybot/commands.py:348
+msgid "Birthday role"
+msgstr "Rôle anniversaire"
+
+#: ./birthdaybot/commands.py:351 ./birthdaybot/commands.py:353
+msgid "Keep user data"
+msgstr "Garder les données utilisateur"
+
+#: ./birthdaybot/commands.py:355
+msgid "Last bot check"
+msgstr "Dernier passage du bot"
+
+#: ./birthdaybot/commands.py:356
+msgid "Last birthday"
+msgstr "Dernier anniversaire"
+
+#: ./birthdaybot/settings.py:41
+msgid "Happy birthday to {user} ({age}) !"
+msgstr "Joyeux anniversaire à {user} ({age}) !"
+
+# Commands help and usage
+msgid "Display help for given command.\nUsage: help (<command>)"
+msgstr "Affiche l'aide pour une commande donnée.\nUtilisation: help (<commande>)"
+
+msgid "Set birthday for given member.\nUsage: birthday <date> @<member>"
+msgstr "Défini l'anniversaire pour d'un membre.\nUtilisation: birthday <date> @<membre>"
+
+msgid "Set your birthday or birthday for a given member.\nUsage: birthday <date> (@<member>)"
+msgstr "Défini votre anniversaire ou l'anniversaire pour d'un membre.\nUtilisation: birthday <date> (@<membre>)"
+
+msgid "Remove birthday of a given member.\nUsage: remove @<member>"
+msgstr "Supprime l'anniversaire d'un membre.\nUtilisation: remove @<membre>"
+
+msgid "Remove your birthday or remove birthday of a given member.\nUsage: remove (@<member>)"
+msgstr "Supprime vrote date d'anniversaire ou l'anniversaire d'un membre.\nUtilisation: remove (@<membre>)"
+
+msgid "Display birthday for a given member.\nUsage: of @<member>"
+msgstr "Affiche l'anniversaire d'un membre.\nUtilisation: of @<membre>"
+
+msgid "Allow given role to use the bot.\nUsage: role add <role>"
+msgstr "Autorise un role à utiliser le bot.\nUtilisation: role add <role>"
+
+msgid "Remove right to use bot for a given role.\nUsage: role remove <role>"
+msgstr "Supprime le droit d'utiliser le bot pour un role.\nUtilisation: role remove <role>"
+
+msgid "Allow given role to manage the bot.\nUsage: admin-role add <role>"
+msgstr "Autorise un role à gérer le bot.\nUtilisation: admin-role add <role>"
+
+msgid "Remove right to manage bot from given role.\nUsage: admin-role remove <role>"
+msgstr "Supprime le droit de gérer le bot pour un role.\nUtilisation: admin-role remove <role>"
+
+msgid "Set server timezone.\nUsage: set-timezone <timezone>"
+msgstr "Défini le fuseau horraire du serveur.\nUtilisation: set-timezone <fuseau>"
+
+msgid "Set server date format used to ask people birthday.\nUsage: set-dateformat <format>"
+msgstr "Défini le format de date utilisé pour demandé l'anniversaire des personnes.\nUtilisation: set-dateformat <format>"
+
+msgid "Set server language.\nUsage: set-lang <lang>"
+msgstr "Défini la langue utilisé par le bot.\nUtilisation: set-lang <lang>"
+
+msgid "Set hour at bot celebrate members birthday on server.\nUsage: set-celebrate-hour <hour>"
+msgstr "Défini l'heure quand le bot célébre les anniversaires sur le serveur.\nUtilisation: set-celebrate-hour <hour>"
+
+msgid "Set channel where bot send birthday message.\nUsage: set-celebrate-channel #<channel>"
+msgstr "Défini le salon où le bot envoi le message d'anniversaire.\nUtilisation: set-celebrate-channel #<salon>"
+
+msgid "Set birthday message.\nUsage: set-birthday-message <message>\nUse {member} and {age} tag for displaying member name and member age in message."
+msgstr "Défini le message d'anniversaire.\nUtilisation: set-birthday-message <message>\nUtiliser {member} et {age} pour afficher le nom et l'age du membre dans le message."
+
+msgid "Define if we keep member birthday even if there aren't on the server.\nUsage: set-keep-onleave <0/1>"
+msgstr "Défini si on garde l'anniversaire des membres même si ils ont quittés le serveur.\nUtilisation: set-keep-onleave <0/1>"
+
+msgid "Set special role for members having birthday.\nUsage: set-birthday-role <role>"
+msgstr "Défini un role pour l'anniversaire des membres.\nUtilisation: set-birthday-role <role>"
+
+msgid "Allow given channel to be used for bot command channel from members.\nUsage: channel add #<channel>"
+msgstr "Autorise un salon à être utilisé pour les commandes du bot par les membres.\nUtilisation: channel add #<salon>"
+
+msgid "Remove channel from allowed bot command channel.\nUsage: channel remove #<channel>"
+msgstr "Supprime l'autorisation d'utilisé un salon pour le commande bot.\nUtilisation: channel remove #<channel>"
+
+msgid "Display fake birthday message.\nUsage: birthday-preview"
+msgstr "Affiche un faux message d'anniversaire.\nUtilisation: birthday-preview"
+
+msgid "Display bot details.\nUsage: status"
+msgstr "Affiche les informations sur le bot.\nUtilisation: status"
+
+msgid "Force the bot to wish members birthdays.\nUsage: force-wish"
+msgstr "Force le bot à souhaiter les anniversaires des membres.\nUtilisation: force-wish"
+
+msgid "Stop the bot program.\nUsage: bot-stop"
+msgstr "Arrête le programme du bot.\nUtilisation: bot-stop"

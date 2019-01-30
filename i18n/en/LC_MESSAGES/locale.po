@@ -1,0 +1,271 @@
+# birthdaybot
+# Copyright (C) 2019 Noryx
+# Noryx <contact@pawz.xyz>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2019-01-16 22:43+CET\n"
+"PO-Revision-Date: 2019-01-16 23:00+CET\n"
+"Last-Translator: Noryx <contact@pawz.xyz>\n"
+"Language-Team: ENGLISH <contact@pawz.xyz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: ENCODING\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: birthdaybot/commands.py:27
+msgid "Help"
+msgstr "Help"
+
+#: birthdaybot/commands.py:31
+msgid "All commands list and usage guide"
+msgstr "All commands list and usage guide"
+
+#: ./birthdaybot/commands.py:20 ./birthdaybot/commands.py:36
+#: ./birthdaybot/commands.py:52 ./birthdaybot/commands.py:68
+#: ./birthdaybot/commands.py:186
+msgid "Given role doesn't exists on server."
+msgstr "Given role doesn't exists on server."
+
+#: ./birthdaybot/commands.py:25
+msgid "Members with role {0} are now allowed to use the bot."
+msgstr "Members with role {0} are now allowed to use the bot."
+
+#: ./birthdaybot/commands.py:41
+msgid "Members with role {0} are no longer allowed to use the bot."
+msgstr "Members with role {0} are no longer allowed to use the bot."
+
+#: ./birthdaybot/commands.py:57
+msgid "Members with role {0} are now allowed to manage the bot."
+msgstr "Members with role {0} are now allowed to manage the bot."
+
+#: ./birthdaybot/commands.py:73
+msgid "Members with role {0} are no longer allowed to manage the bot."
+msgstr "Members with role {0} are no longer allowed to manage the bot."
+
+#: ./birthdaybot/commands.py:84
+msgid "{0} isn't a valid timezone."
+msgstr "{0} isn't a valid timezone."
+
+#: ./birthdaybot/commands.py:88
+msgid "Server timezone is now {0}."
+msgstr "Server timezone is now {0}."
+
+#: ./birthdaybot/commands.py:99
+msgid "{0} isn't a valid date format."
+msgstr "{0} isn't a valid date format."
+
+#: ./birthdaybot/commands.py:103
+msgid "Server date format updated."
+msgstr "Server date format updated."
+
+#: ./birthdaybot/commands.py:113
+msgid "Bot language is now english."
+msgstr "Bot language is now english."
+
+#: ./birthdaybot/commands.py:115
+msgid "Language {0} isn't supported. ({1})"
+msgstr "Language {0} isn't supported. ({1})"
+
+#: ./birthdaybot/commands.py:126
+msgid "Hour must be between 0 and 23."
+msgstr "Hour must be between 0 and 23."
+
+#: ./birthdaybot/commands.py:130
+msgid "Now we're going to celebrate birthdays at {0}."
+msgstr "Now we're going to celebrate birthdays at {0}."
+
+#: ./birthdaybot/commands.py:142
+msgid "Celebration channel is now {0}."
+msgstr "Celebration channel is now {0}."
+
+#: ./birthdaybot/commands.py:155
+msgid "Birthday bot message updated."
+msgstr "Birthday bot message updated."
+
+#: ./birthdaybot/commands.py:170
+msgid "Now keeping member birthday even if member leave server."
+msgstr "Now keeping member birthday even if member leave server."
+
+#: ./birthdaybot/commands.py:172
+msgid "Now removing member birthday when he leave server."
+msgstr "Now removing member birthday when he leave server."
+
+#: ./birthdaybot/commands.py:182 ./birthdaybot/commands.py:189
+msgid "Birthday role is set to {0}"
+msgstr "Birthday role is set to {0}"
+
+#: ./birthdaybot/commands.py:202
+msgid "Channel {0} can now be used for birthday bot."
+msgstr "Channel {0} can now be used for birthday bot."
+
+#: ./birthdaybot/commands.py:215
+msgid "Channel {0} now removed from birthday bot channel."
+msgstr "Channel {0} now removed from birthday bot channel."
+
+#: ./birthdaybot/commands.py:230
+msgid "Birthday isn't a valid date format: {0}."
+msgstr "Birthday isn't a valid date format: {0}."
+
+#: ./birthdaybot/commands.py:233
+msgid "Birthday isn't a valid date."
+msgstr "Birthday isn't a valid date."
+
+#: ./birthdaybot/commands.py:239
+msgid "Your age must be between {0} and {1}."
+msgstr "Your age must be between {0} and {1}."
+
+#: ./birthdaybot/commands.py:249 ./birthdaybot/commands.py:271
+#: ./birthdaybot/commands.py:294
+msgid "Given member is not a member of the server."
+msgstr "Given member is not a member of the server."
+
+#: ./birthdaybot/commands.py:254
+msgid "{0}'s birthday is now {1}."
+msgstr "{0}'s birthday is now {1}."
+
+#: ./birthdaybot/commands.py:254 ./birthdaybot/commands.py:303
+msgid "MMMM Do"
+msgstr "MMMM Do"
+
+#: ./birthdaybot/commands.py:278 ./birthdaybot/commands.py:300
+msgid "{0} hasn't set is birthday yet."
+msgstr "{0} hasn't set is birthday yet."
+
+#: ./birthdaybot/commands.py:283
+msgid "{0}'s birthday removed from server."
+msgstr "{0}'s birthday removed from server."
+
+#: ./birthdaybot/commands.py:302
+msgid "{0}'s birthday is the {1} !"
+msgstr "{0}'s birthday is the {1} !"
+
+#: ./birthdaybot/commands.py:321
+msgid "Connected to server since {0}."
+msgstr "Connected to server since {0}."
+
+#: ./birthdaybot/commands.py:326
+msgid "Authorized role(s)"
+msgstr "Authorized role(s)"
+
+#: ./birthdaybot/commands.py:329
+msgid "Administrator role(s)"
+msgstr "Administrator role(s)"
+
+#: ./birthdaybot/commands.py:331
+msgid "Timezone"
+msgstr "Timezone"
+
+#: ./birthdaybot/commands.py:332
+msgid "Date format"
+msgstr "Date format"
+
+#: ./birthdaybot/commands.py:333
+msgid "Language"
+msgstr "Language"
+
+#: ./birthdaybot/commands.py:334
+msgid "Celebrating hour"
+msgstr "Celebrating hour"
+
+#: ./birthdaybot/commands.py:337 ./birthdaybot/commands.py:339
+msgid "Celebration channel"
+msgstr "Celebration channel"
+
+#: ./birthdaybot/commands.py:342
+msgid "Command channel(s)"
+msgstr "Command channel(s)"
+
+#: ./birthdaybot/commands.py:346 ./birthdaybot/commands.py:348
+msgid "Birthday role"
+msgstr "Birthday role"
+
+#: ./birthdaybot/commands.py:351 ./birthdaybot/commands.py:353
+msgid "Keep user data"
+msgstr "Keep user data"
+
+#: ./birthdaybot/commands.py:355
+msgid "Last bot check"
+msgstr "Last bot check"
+
+#: ./birthdaybot/commands.py:356
+msgid "Last birthday"
+msgstr "Last birthday"
+
+#: ./birthdaybot/settings.py:41
+msgid "Happy birthday to {user} ({age}) !"
+msgstr "Happy birthday to {user} ({age}) !"
+
+# Commands help and usage
+msgid "Display help for given command.\nUsage: help (<command>)"
+msgstr "Display help for given command.\nUsage: help (<command>)"
+
+msgid "Set birthday for given member.\nUsage: birthday <date> @<member>"
+msgstr "Set birthday for given member.\nUsage: birthday <date> @<member>"
+
+msgid "Set your birthday or birthday for a given member.\nUsage: birthday <date> (@<member>)"
+msgstr "Set your birthday or birthday for a given member.\nUsage: birthday <date> (@<member>)"
+
+msgid "Remove birthday of a given member.\nUsage: remove @<member>"
+msgstr "Remove birthday of a given member.\nUsage: remove @<member>"
+
+msgid "Remove your birthday or remove birthday of a given member.\nUsage: remove (@<member>)"
+msgstr "Remove your birthday or remove birthday of a given member.\nUsage: remove (@<member>)"
+
+msgid "Display birthday for a given member.\nUsage: of @<member>"
+msgstr "Display birthday for a given member.\nUsage: of @<member>"
+
+msgid "Allow given role to use the bot.\nUsage: role add <role>"
+msgstr "Allow given role to use the bot.\nUsage: role add <role>"
+
+msgid "Remove right to use bot for a given role.\nUsage: role remove <role>"
+msgstr "Remove right to use bot for a given role.\nUsage: role remove <role>"
+
+msgid "Allow given role to manage the bot.\nUsage: admin-role add <role>"
+msgstr "Allow given role to manage the bot.\nUsage: admin-role add <role>"
+
+msgid "Remove right to manage bot from given role.\nUsage: admin-role remove <role>"
+msgstr "Remove right to manage bot from given role.\nUsage: admin-role remove <role>"
+
+msgid "Set server timezone.\nUsage: set-timezone <timezone>"
+msgstr "Set server timezone.\nUsage: set-timezone <timezone>"
+
+msgid "Set server date format used to ask people birthday.\nUsage: set-dateformat <format>"
+msgstr "Set server date format used to ask people birthday.\nUsage: set-dateformat <format>"
+
+msgid "Set server language.\nUsage: set-lang <lang>"
+msgstr "Set server language.\nUsage: set-lang <lang>"
+
+msgid "Set hour at bot celebrate members birthday on server.\nUsage: set-celebrate-hour <hour>"
+msgstr "Set hour at bot celebrate members birthday on server.\nUsage: set-celebrate-hour <hour>"
+
+msgid "Set channel where bot send birthday message.\nUsage: set-celebrate-channel #<channel>"
+msgstr "Set channel where bot send birthday message.\nUsage: set-celebrate-channel #<channel>"
+
+msgid "Set birthday message.\nUsage: set-birthday-message <message>\nUse {member} and {age} tag for displaying member name and member age in message."
+msgstr "Set birthday message.\nUsage: set-birthday-message <message>\nUse {member} and {age} tag for displaying member name and member age in message."
+
+msgid "Define if we keep member birthday even if there aren't on the server.\nUsage: set-keep-onleave <0/1>"
+msgstr "Define if we keep member birthday even if there aren't on the server.\nUsage: set-keep-onleave <0/1>"
+
+msgid "Set special role for members having birthday.\nUsage: set-birthday-role <role>"
+msgstr "Set special role for members having birthday.\nUsage: set-birthday-role <role>"
+
+msgid "Allow given channel to be used for bot command channel from members.\nUsage: channel add #<channel>"
+msgstr "Allow given channel to be used for bot command channel from members.\nUsage: channel add #<channel>"
+
+msgid "Remove channel from allowed bot command channel.\nUsage: channel remove #<channel>"
+msgstr "Remove channel from allowed bot command channel.\nUsage: channel remove #<channel>"
+
+msgid "Display fake birthday message.\nUsage: birthday-preview"
+msgstr "Display fake birthday message.\nUsage: birthday-preview"
+
+msgid "Display bot details.\nUsage: status"
+msgstr "Display bot details.\nUsage: status"
+
+msgid "Force the bot to wish members birthdays.\nUsage: force-wish"
+msgstr "Force the bot to wish members birthdays.\nUsage: force-wish"
+
+msgid "Stop the bot program.\nUsage: bot-stop"
+msgstr "Stop the bot program.\nUsage: bot-stop"
