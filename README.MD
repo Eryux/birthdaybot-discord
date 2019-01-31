@@ -33,4 +33,4 @@ If you want to contribute, please follow this procedure :
 
 
 If you are familiar with git, make your modification inside a fork and ask for a pull request. 
-If you aren't, send us a zip of your modification at mail address contact+birthdaybot@pawz.xyz (not yet available).
+If you aren't, send us a zip of your modification at mail address contact@pawz.xyz.
