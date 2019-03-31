@@ -3,7 +3,7 @@
 Birthday BOT is a Discord bot that allow members on a server to register their birthday for being announced by the bot when it is. It also include other features like define a special role for member birthday etc.
 
 If you want to add this bot to your server, go to [official website](http://birthdaybot.pawz.xyz/).
-If you want to learn more about bot features or how the bot work, check the [documentation](http://birthdaybot.pawz.xyz/guide).
+If you want to learn more about bot features or how the bot work, check the [documentation](http://birthdaybot.pawz.xyz/guide.html).
 
 
 **Bot source code is closed sources, you will not find any bot source code on this repository.**
@@ -15,6 +15,14 @@ If you ever encouter a bug with the bot, feel free to open an issue. Label it li
 
 
 ### Localization and languages
+
+Current supported languages:
+
+Language | Status | Contributor(s)
+--- | --- | ---
+**english** | Up to date | [Eryux](https://github.com/Eryux)
+**french** | Up to date | [Eryux](https://github.com/Eryux)
+**german** | Up to date | [TreeZenDE](https://github.com/TreeZenDE)
 
 You can help us to translate the bot in differents languages. 
 For bot translation we use GNU gettext utilities with .po files. All bot translation are availables inside `i18n` folder.
